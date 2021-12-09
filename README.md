@@ -2,11 +2,11 @@
 
 https://programmerowais.github.io/downloadingfiles.github.io/
 
-### Hi there in this simple project I covered how to download different types of files by using simple <a> anchor tag.
+#### Hi there in this simple project I covered how to download different types of files by using simple <a> anchor tag.
 
-### All you need to add some download functionality ( wanna provide facility to download special file/video/image etc)
+#### All you need to add some download functionality ( wanna provide facility to download special file/video/image etc)
 
-### here is a syntax
+#### here is a syntax
 
 a href = "path of the files" download = "name of the file"
 
